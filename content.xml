@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505213605VEBHS0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605052136053V2121</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>VisualizARTE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Verónica Hevia Roces</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para el alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778009639994</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>2d015795-cd31-44da-80ba-122b9dfdae66</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>2d015795-cd31-44da-80ba-122b9dfdae66</odePageId>
+      <odeBlockId>block-1778003256791-g5auaseji</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>2d015795-cd31-44da-80ba-122b9dfdae66</odePageId>
+          <odeBlockId>block-1778003256791-g5auaseji</odeBlockId>
+          <odeIdeviceId>idevice-1778003256784-77gtqhp55</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad vas a descubrir quién eres, qué te gusta y qué quieres conseguir en el futuro.</p>
+<p>Crearás:</p>
+<ul>
+<li>Una infografía sobre ti</li>
+<li>Un Vision Board (tablero visual de tus sueños y aspiraciones)</li>
+<li>Un vídeo explicando tu proyecto personal</li>
+</ul>
+<p>¡Al final tendrás tu propio proyecto de vida en formato creativo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003256784-77gtqhp55","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad vas a descubrir quién eres, qué te gusta y qué quieres conseguir en el futuro.</p>\n<p>Crearás:</p>\n<ul>\n<li>Una infografía sobre ti</li>\n<li>Un Vision Board (tablero visual de tus sueños y aspiraciones)</li>\n<li>Un vídeo explicando tu proyecto personal</li>\n</ul>\n<p>¡Al final tendrás tu propio proyecto de vida en formato creativo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1: DESCÚBRETE</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: DESCÚBRETE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+      <odeBlockId>block-1778006038632-1j77is251</odeBlockId>
+      <blockName>¿Qué tengo que hacer?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+          <odeBlockId>block-1778006038632-1j77is251</odeBlockId>
+          <odeIdeviceId>idevice-1778006038619-jzid9ev1q</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778006038619-jzid9ev1q" title="Conocerse a uno mismo es el primer paso para construir tu futuro." href="{{context_path}}/content/resources/Sesión 1.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Sesión 1.png" height="128" width="128" title="Conocerse a uno mismo es el primer paso para construir tu futuro." alt="Conocerse a uno mismo es el primer paso para construir tu futuro." titlelink="Conocerse a uno mismo es el primer paso para construir tu futuro." author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778006038619-jzid9ev1q","img_0":{"img":"{{context_path}}/content/resources/Sesión 1.png","thumbnail":"{{context_path}}/content/resources/Sesión 1.png","title":"Conocerse a uno mismo es el primer paso para construir tu futuro.","linktitle":"Conocerse a uno mismo es el primer paso para construir tu futuro.","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+      <odeBlockId>block-1778003974052-ypcq707fa</odeBlockId>
+      <blockName>El desafío</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+          <odeBlockId>block-1778003974052-ypcq707fa</odeBlockId>
+          <odeIdeviceId>idevice-1778003974047-qb3bvm43w</odeIdeviceId>
+          <odeIdeviceTypeName>challenge</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="desafio-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778003974047-qb3bvm43w" data-evaluationb="true" data-evaluationid="f4fb6898-0840-43f0-90b2-e949facc889f"></div><div class="desafio-instructions"><p><br /></p>
+<p> </p></div><div class="desafio-version js-hidden">1</div><div class="desafio-EDescription"><p>    </p>
+<p>La combinación de la caja secreta consta de 3 letras. En cada reto obtendrás una de ellas.</p>
+<p>Una vez los hayas conseguido, escríbelas consecutivamente y podrás terminar el desafío.</p>
+<p>¡Tienes 10 minutos!</p></div><div class="desafio-ChallengeDescription"><p>Lee el caso:<br />Lucía no siempre acierta en los ejercicios, pero lo intenta varias veces, pide ayuda cuando la necesita y no se rinde hasta terminar.</p>
+<p>¿Cuál es la fortaleza principal de Lucía?</p>
+<p>A) Es rápida<br />B) Es constante<br />C) Es la mejor de la clase</p>
+<p>Escribe la letra de la respuesta correcta.</p></div><div class="desafio-ChallengeDescription"><p>Lee el caso:</p>
+<p>Sergio quiere mejorar en lectura porque le cuesta entender algunos textos. ¿Cuál es la mejor meta para empezar?</p>
+<p>A) Leer mejor que todos sus compañeros mañana<br />B) Leer 10 minutos cada día y preguntar dudas<br />C) No leer porque es difícil</p>
+<p>Escribe la letra de la respuesta correcta.</p></div><div class="desafio-ChallengeDescription"><p>Lee el caso</p>
+<p>David dice:</p>
+<p>“Mi meta es ser futbolista profesional este año.”<br />¿Qué problema tiene esta meta?</p>
+<p>A) Es imposible<br />B) Está bien planteada<br />C) Es poco realista</p></div><div class="desafio-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%F6%F7%E1%F3%F4%FB%FD%B0%BE%B0%F6%F7%E1%F3%F4%FB%FD%C6%FB%E6%FE%F7%B0%A8%B0%D7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B0%BE%B0%F6%F7%E1%F3%F4%FB%FD%C6%FB%FF%F7%B0%A8%A3%A2%BE%B0%F6%F7%E1%F3%F4%FB%FD%C6%EB%E2%F7%B0%A8%A2%BE%B0%F6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%D0%D1%B0%BE%B0%F6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E4%F7%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%E1%F3%F4%FB%FD%D6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC2%B222%AE%BD%E2%AC%CE%FC%AE%E2%AC%DE%F3%B2%F1%FD%FF%F0%FB%FC%F3%F1%FBa%FC%B2%F6%F7%B2%FE%F3%B2%F1%F3%F8%F3%B2%E1%F7%F1%E0%F7%E6%F3%B2%F1%FD%FC%E1%E6%F3%B2%F6%F7%B2%A1%B2%FE%F7%E6%E0%F3%E1%BC%B2%D7%FC%B2%F1%F3%F6%F3%B2%E0%F7%E6%FD%B2%FD%F0%E6%F7%FC%F6%E0s%E1%B2%E7%FC%F3%B2%F6%F7%B2%F7%FE%FE%F3%E1%BC%AE%BD%E2%AC%CE%FC%AE%E2%AC%C7%FC%F3%B2%E4%F7%E8%B2%FE%FD%E1%B2%FA%F3%EB%F3%E1%B2%F1%FD%FC%E1%F7%F5%E7%FB%F6%FD%BE%B2%F7%E1%F1%E0%7F%F0%F7%FE%F3%E1%B2%F1%FD%FC%E1%F7%F1%E7%E6%FB%E4%F3%FF%F7%FC%E6%F7%B2%EB%B2%E2%FD%F6%E0s%E1%B2%E6%F7%E0%FF%FB%FC%F3%E0%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%AE%BD%E2%AC%CE%FC%AE%E2%AC3%C6%FB%F7%FC%F7%E1%B2%A3%A2%B2%FF%FB%FC%E7%E6%FD%E1%B3%AE%BD%E2%AC%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%AE%E2%AC%AE%F0%E0%B2%BD%AC%AE%BD%E2%AC%CE%FC%AE%E2%AC2%AE%BD%E2%AC%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%C0%F7%E1%E7%F7%FE%E4%F7%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%E6%E0%E7%F7%BE%B0%F1%FA%F3%FE%FE%F7%FC%F5%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%F6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%F1%F3%E1%FD%A8%AE%F0%E0%B2%BD%AC%DE%E7%F1%7F%F3%B2%FC%FD%B2%E1%FB%F7%FF%E2%E0%F7%B2%F3%F1%FB%F7%E0%E6%F3%B2%F7%FC%B2%FE%FD%E1%B2%F7%F8%F7%E0%F1%FB%F1%FB%FD%E1%BE%B2%E2%F7%E0%FD%B2%FE%FD%B2%FB%FC%E6%F7%FC%E6%F3%B2%E4%F3%E0%FB%F3%E1%B2%E4%F7%F1%F7%E1%BE%B2%E2%FB%F6%F7%B2%F3%EB%E7%F6%F3%B2%F1%E7%F3%FC%F6%FD%B2%FE%F3%B2%FC%F7%F1%F7%E1%FB%E6%F3%B2%EB%B2%FC%FD%B2%E1%F7%B2%E0%FB%FC%F6%F7%B2%FA%F3%E1%E6%F3%B2%E6%F7%E0%FF%FB%FC%F3%E0%BC%AE%BD%E2%AC%CE%FC%AE%E2%AC-%D1%E7s%FE%B2%F7%E1%B2%FE%F3%B2%F4%FD%E0%E6%F3%FE%F7%E8%F3%B2%E2%E0%FB%FC%F1%FB%E2%F3%FE%B2%F6%F7%B2%DE%E7%F1%7F%F3%AD%AE%BD%E2%AC%CE%FC%AE%E2%AC%D3%BB%B2%D7%E1%B2%E0s%E2%FB%F6%F3%AE%F0%E0%B2%BD%AC%D0%BB%B2%D7%E1%B2%F1%FD%FC%E1%E6%F3%FC%E6%F7%AE%F0%E0%B2%BD%AC%D1%BB%B2%D7%E1%B2%FE%F3%B2%FF%F7%F8%FD%E0%B2%F6%F7%B2%FE%F3%B2%F1%FE%F3%E1%F7%AE%BD%E2%AC%CE%FC%AE%E2%AC%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%F6%F7%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%BC%AE%BD%E2%AC%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%E7%F1%7F%F3%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%B0%A8%BF%A3%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A3%A2%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%CF%EF%BE%E9%B0%F6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%F1%F3%E1%FD%A8%AE%BD%E2%AC%CE%FC%AE%E2%AC%C1%F7%E0%F5%FB%FD%B2%E3%E7%FB%F7%E0%F7%B2%FF%F7%F8%FD%E0%F3%E0%B2%F7%FC%B2%FE%F7%F1%E6%E7%E0%F3%B2%E2%FD%E0%E3%E7%F7%B2%FE%F7%B2%F1%E7%F7%E1%E6%F3%B2%F7%FC%E6%F7%FC%F6%F7%E0%B2%F3%FE%F5%E7%FC%FD%E1%B2%E6%F7%EA%E6%FD%E1%BC%B2-%D1%E7s%FE%B2%F7%E1%B2%FE%F3%B2%FF%F7%F8%FD%E0%B2%FF%F7%E6%F3%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%AD%AE%BD%E2%AC%CE%FC%AE%E2%AC%D3%BB%B2%DE%F7%F7%E0%B2%FF%F7%F8%FD%E0%B2%E3%E7%F7%B2%E6%FD%F6%FD%E1%B2%E1%E7%E1%B2%F1%FD%FF%E2%F3c%F7%E0%FD%E1%B2%FF%F3c%F3%FC%F3%AE%F0%E0%B2%BD%AC%D0%BB%B2%DE%F7%F7%E0%B2%A3%A2%B2%FF%FB%FC%E7%E6%FD%E1%B2%F1%F3%F6%F3%B2%F6%7F%F3%B2%EB%B2%E2%E0%F7%F5%E7%FC%E6%F3%E0%B2%F6%E7%F6%F3%E1%AE%F0%E0%B2%BD%AC%D1%BB%B2%DC%FD%B2%FE%F7%F7%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%B2%F6%FB%F4%7F%F1%FB%FE%AE%BD%E2%AC%CE%FC%AE%E2%AC%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%F6%F7%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%BC%AE%BD%E2%AC%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%C1%F7%E0%F5%FB%FD%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%B0%A8%BF%A3%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A3%A2%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%CF%EF%BE%E9%B0%F6%F7%E1%F1%E0%FB%E2%E6%FB%FD%FC%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%F1%F3%E1%FD%AE%BD%E2%AC%CE%FC%AE%E2%AC%D6%F3%E4%FB%F6%B2%F6%FB%F1%F7%A8%AE%BD%E2%AC%CE%FC%AE%E2%AC%u208E%DF%FB%B2%FF%F7%E6%F3%B2%F7%E1%B2%E1%F7%E0%B2%F4%E7%E6%F0%FD%FE%FB%E1%E6%F3%B2%E2%E0%FD%F4%F7%E1%FB%FD%FC%F3%FE%B2%F7%E1%E6%F7%B2%F3c%FD%BC%u208F%AE%F0%E0%B2%BD%AC-%C3%E7%7B%B2%E2%E0%FD%F0%FE%F7%FF%F3%B2%E6%FB%F7%FC%F7%B2%F7%E1%E6%F3%B2%FF%F7%E6%F3%AD%AE%BD%E2%AC%CE%FC%AE%E2%AC%D3%BB%B2%D7%E1%B2%FB%FF%E2%FD%E1%FB%F0%FE%F7%AE%F0%E0%B2%BD%AC%D0%BB%B2%D7%E1%E6s%B2%F0%FB%F7%FC%B2%E2%FE%F3%FC%E6%F7%F3%F6%F3%AE%F0%E0%B2%BD%AC%D1%BB%B2%D7%E1%B2%E2%FD%F1%FD%B2%E0%F7%F3%FE%FB%E1%E6%F3%AE%BD%E2%AC%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%D6%F3%E4%FB%F6%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D1%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%B0%A8%BF%A3%BE%B0%F1%FE%E7%F7%E1%B0%A8%C9%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A3%A2%EF%BE%E9%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A7%EF%CF%EF%CF%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%F6%F7%E1%F3%F4%FB%FD%DB%D6%B0%A8%A3%A5%A5%AA%A2%A2%A1%AB%A5%A6%A1%AB%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F4%A6%F4%F0%A4%AA%AB%AA%BF%A2%AA%A6%A2%BF%A6%A1%F4%A2%BF%AB%A2%F0%A0%BF%F7%AB%A6%AB%F4%F3%F1%F1%AA%AA%AB%F4%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A2%A2%A1%AB%A5%A6%A2%A6%A5%BF%E3%F0%A1%F0%E4%FF%A6%A1%E5%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%F5%E1%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%B0%A8%B0%D6%F7%E1%F3%F4%7F%FD%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%B0%A8%B0%C0%F7%E6%FD%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%B0%A8%B0%C0%F7%E6%FD%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C6%FB%FF%F7%B0%A8%B0%DB%FC%FB%F1%FB%FD%B2%F6%F7%E1%F3%F4%7F%FD%B0%BE%B0%FF%E1%F5%C0%F7%F3%F6%C6%FB%FF%F7%B0%A8%B0%DE%F7%F7%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B2%EB%BE%B2%F1%E7%F3%FC%F6%FD%B2%F7%E1%E6%7B%E1%B2%FE%FB%E1%E6%FD%BE%B2%E2%E7%FE%E1%F3%B2%E1%FD%F0%E0%F7%B2%E7%FC%B2%E0%F7%E6%FD%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%BC%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%E1%D3%FE%FE%D1%FD%FF%E2%FE%F7%E6%F7%F6%B0%A8%B03%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%B3%B23%D1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B3%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E4%F7%F6%B0%A8%B03%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%B3%B2%C2%E7%FE%E1%F3%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%E2%F3%E0%F3%B2%FC%E7%F7%E4%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%C1%FD%FE%E4%F7%F6%A3%B0%A8%B03%D7%FC%FA%FD%E0%F3%F0%E7%F7%FC%F3%B3%B23%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F7%B2%F6%F7%E1%F3%F4%7F%FD%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B2%EB%B2%FC%FD%B2%FA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%B2%C2%E7%FE%E1%F3%B2%E1%FD%F0%E0%F7%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%E2%F3%E0%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%D7%E0%E0%FD%E0%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B2%FB%FC%F1%FD%E0%E0%F7%F1%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%D1%D7%E0%E0%FD%E0%B0%A8%B0%DE%F3%B2%E1%FD%FE%E7%F1%FBa%FC%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%BC%B0%BE%B0%FF%E1%F5%D1%FA%F3%FE%FE%F7%FC%F5%F7%C1%FD%FE%E4%F7%F6%B0%A8%B03%DA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%E1%E6%F7%B2%E0%F7%E6%FD%B3%B23%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%FD%E6%E0%FD%B3%B0%BE%B0%FF%E1%F5%D6%F7%E1%F3%F4%FB%FD%C0%F7%F0%FD%FD%E6%B0%A8%B0%D7%E1%E6%FD%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0s%B2%F7%FE%B2%F8%E7%F7%F5%FD%B2%EB%B2%FF%FD%F6%FB%F4%FB%F1%F3%E0s%B2%E1%E7%B2%FA%FD%E0%F3%B2%F6%F7%B2%FB%FC%FB%F1%FB%FD%BC%B2-%D6%F7%E1%F7%F3%E1%B2%F1%FD%FC%E6%FB%FC%E7%F3%E0%AD%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%D3%FE%FE%D1%FA%F3%FE%FE%F7%FC%F5%F7%F6%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%E0%F7%E1%FD%FE%E4%F7%E0%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BE%B2%F6%F7%F0%F7%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%E0%F7%E6%FD%E1%BC%B0%BE%B0%FF%E1%F5%C1%FD%FE%E4%F7%F6%D1%FA%F3%FE%FE%F7%FC%F5%F7%B0%A8%B0%CB%F3%B2%FA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%E1%E6%F7%B2%E0%F7%E6%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FB%E6%F7%D1%FA%F3%FE%FE%F7%FC%F5%F7%B0%A8%B0%C0%F7%E1%E7%F7%FE%E4%F7%B2%F7%E1%E6%F7%B2%E0%F7%E6%FD%B2%F7%B2%FB%FC%F6%FB%F1%F3%B2%E1%E7%B2%E1%FD%FE%E7%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%C0%F7%E1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B2%EB%B2%FC%FD%B2%FA%F3%E1%B2%E0%F7%E1%E7%F7%FE%E6%FD%B2%F7%FE%B2%F6%F7%E1%F3%F4%7F%FD%BC%B2%C2%E7%FE%E1%F3%B2%E1%FD%F0%E0%F7%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%E2%F3%E0%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%DA%F7%FE%E2%B0%A8%B0%D3%EB%E7%F6%F3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F3%F4%7F%FD%B0%EF%EF</div><div class="desafio-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+      <odeBlockId>block-1778003493774-wk1d0lawo</odeBlockId>
+      <blockName>1. Video Autoconocimiento, Autoimagen y Autoestima</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+          <odeBlockId>block-1778003493774-wk1d0lawo</odeBlockId>
+          <odeIdeviceId>idevice-1778003493771-62s2ndewj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/U23YIKZyHvI" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003493771-62s2ndewj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/U23YIKZyHvI\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+      <odeBlockId>block-1778003347914-9fev3x4yh</odeBlockId>
+      <blockName>2. ¿Quién soy?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778003340483-mp9d8xqe0</odePageId>
+          <odeBlockId>block-1778003347914-9fev3x4yh</odeBlockId>
+          <odeIdeviceId>idevice-1778003347909-wj3zf0tgh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad vas a empezar a descubrir: qué te gusta, qué se te da bien y qué quieres conseguir<br />No hay respuestas correctas o incorrectas, lo importante es que pienses con sinceridad.</p>
+<p><strong>1. MIS INTERESES</strong><br />Los intereses son las cosas que te gustan o disfrutas hacer. Piensa y escribe:</p>
+<p>5 cosas que te gustan (ej: deporte, música, dibujar…)<br />3 actividades que disfrutas hacer en tu tiempo libre<br />1 cosa nueva que te gustaría aprender<br /></p>
+<p>💡 Pista: piensa en lo que haces cuando tienes tiempo libre</p>
+<p> <br /><strong>2. MIS FORTALEZAS</strong><br />Las fortalezas son cosas que se te dan bien o cualidades que tienes. Reflexiona: ¿En qué destacas? ¿Qué te dicen los demás que haces bien?<br />Puedes pensar en cosas como: Ayudar a los demás. Ser creativo/a. Esforzarte. Ser responsable.<br /></p>
+<p>💡 Pista: una fortaleza no es ser perfecto, es algo que haces bien o en lo que te esfuerzas</p>
+<p><strong>3. MIS PRIMERAS METAS</strong><br />Las metas son cosas que quieres conseguir o mejorar. Piensa y escribe:</p>
+<p>Algo que te gustaría conseguir<br />Algo que te gustaría mejorar<br /></p>
+<p>Por ejemplo: “Quiero leer mejor” “Quiero aprender a dibujar”.</p>
+<p>💡 Pista: una buena meta debe ser sencilla y posible</p>
+<p> <br />PARA TERMINAR<br />👉 Revisa lo que has escrito y piensa: ¿Te representa de verdad?¿Cambiarías algo?<br /> <br /> CONSEJO<br />👉 Sé tú mismo/a. Este trabajo es solo para ayudarte a conocerte mejor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003347909-wj3zf0tgh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad vas a empezar a descubrir: qué te gusta, qué se te da bien y qué quieres conseguir<br />No hay respuestas correctas o incorrectas, lo importante es que pienses con sinceridad.</p>\n<p><strong>1. MIS INTERESES</strong><br />Los intereses son las cosas que te gustan o disfrutas hacer. Piensa y escribe:</p>\n<p>5 cosas que te gustan (ej: deporte, música, dibujar…)<br />3 actividades que disfrutas hacer en tu tiempo libre<br />1 cosa nueva que te gustaría aprender<br /></p>\n<p>💡 Pista: piensa en lo que haces cuando tienes tiempo libre</p>\n<p> <br /><strong>2. MIS FORTALEZAS</strong><br />Las fortalezas son cosas que se te dan bien o cualidades que tienes. Reflexiona: ¿En qué destacas? ¿Qué te dicen los demás que haces bien?<br />Puedes pensar en cosas como: Ayudar a los demás. Ser creativo/a. Esforzarte. Ser responsable.<br /></p>\n<p>💡 Pista: una fortaleza no es ser perfecto, es algo que haces bien o en lo que te esfuerzas</p>\n<p><strong>3. MIS PRIMERAS METAS</strong><br />Las metas son cosas que quieres conseguir o mejorar. Piensa y escribe:</p>\n<p>Algo que te gustaría conseguir<br />Algo que te gustaría mejorar<br /></p>\n<p>Por ejemplo: “Quiero leer mejor” “Quiero aprender a dibujar”.</p>\n<p>💡 Pista: una buena meta debe ser sencilla y posible</p>\n<p> <br />PARA TERMINAR<br />👉 Revisa lo que has escrito y piensa: ¿Te representa de verdad?¿Cambiarías algo?<br /> <br /> CONSEJO<br />👉 Sé tú mismo/a. Este trabajo es solo para ayudarte a conocerte mejor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778007366439-clkc9utp0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2: VISUAL BOARD</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: VISUAL BOARD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2: VISUAL BOARD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778007366439-clkc9utp0</odePageId>
+      <odeBlockId>block-1778007601325-k1log78b4</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007366439-clkc9utp0</odePageId>
+          <odeBlockId>block-1778007601325-k1log78b4</odeBlockId>
+          <odeIdeviceId>idevice-1778007601320-megzqe3zc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta sesión vas a revisar la infografía que hiciste en la sesión anterior y después vas a crear tu Vision Board, un tablero visual donde representarás tus metas, tus sueños y lo que te gustaría conseguir en el futuro.</p>
+<p style="text-align: justify;"><strong>Recordamos: </strong>en la sesión anterior trabajaste tus intereses, tus fortalezas y tus primeras metas. Ahora vamos a organizar mejor esas ideas y darles forma visual.</p>
+<p style="text-align: justify;"><strong>1. Antes de empezar, revisa tu infografía y mejora lo que sea necesario</strong>. Comprueba lo siguiente:</p>
+<p style="text-align: justify;">¿Se entiende bien lo que has escrito? ¿Está ordenada? ¿Tiene imágenes? ¿Tu meta es clara y posible? Si ves algo que puedes mejorar, hazlo ahora.</p>
+<p style="text-align: justify;"><strong>2. Crea tu Vision Board</strong></p>
+<p style="text-align: justify;">Ahora vas a crear tu tablero visual. Puedes utilizar imágenes, palabras, colores o símbolos. Lo importante es que refleje quién eres y lo que quieres conseguir. En él tienes que representar:</p>
+<p style="text-align: justify;">Lo que te gustaría ser o hacer, tus sueños y tus metas</p>
+<p style="text-align: justify;">Para hacerlo puedes elegir el formato que prefieras: Digital (Canva) o en cartulina (con recortes, dibujos, etc.) No tiene que ser perfecto, pero sí tiene que estar cuidado y representar tus ideas.</p>
+<p style="text-align: justify;">Antes de terminar, <strong>revisa tu trabajo</strong>: ¿Representa lo que quieres conseguir? ¿Se entiende bien? ¿Es visual y está organizado?</p>
+<p style="text-align: justify;"><strong>3. Entrega tus actividades </strong></p>
+<p style="text-align: justify;">Puedes hacerlo en mano si has preferido trabajar con cartulina o en Teams si has desarrollado las actividades de forma digital.</p>
+<p style="text-align: justify;"><strong></strong><br /></p>
+<p style="text-align: justify;"><strong>Para cerrar, reflexiona un momento:</strong><br />¿Ha cambiado algo en lo que pensabas sobre ti después de hacer esta actividad?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778007601320-megzqe3zc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta sesión vas a revisar la infografía que hiciste en la sesión anterior y después vas a crear tu Vision Board, un tablero visual donde representarás tus metas, tus sueños y lo que te gustaría conseguir en el futuro.</p>\n<p style=\"text-align: justify;\"><strong>Recordamos: </strong>en la sesión anterior trabajaste tus intereses, tus fortalezas y tus primeras metas. Ahora vamos a organizar mejor esas ideas y darles forma visual.</p>\n<p style=\"text-align: justify;\"><strong>1. Antes de empezar, revisa tu infografía y mejora lo que sea necesario</strong>. Comprueba lo siguiente:</p>\n<p style=\"text-align: justify;\">¿Se entiende bien lo que has escrito? ¿Está ordenada? ¿Tiene imágenes? ¿Tu meta es clara y posible? Si ves algo que puedes mejorar, hazlo ahora.</p>\n<p style=\"text-align: justify;\"><strong>2. Crea tu Vision Board</strong></p>\n<p style=\"text-align: justify;\">Ahora vas a crear tu tablero visual. Puedes utilizar imágenes, palabras, colores o símbolos. Lo importante es que refleje quién eres y lo que quieres conseguir. En él tienes que representar:</p>\n<p style=\"text-align: justify;\">Lo que te gustaría ser o hacer, tus sueños y tus metas</p>\n<p style=\"text-align: justify;\">Para hacerlo puedes elegir el formato que prefieras: Digital (Canva) o en cartulina (con recortes, dibujos, etc.) No tiene que ser perfecto, pero sí tiene que estar cuidado y representar tus ideas.</p>\n<p style=\"text-align: justify;\">Antes de terminar, <strong>revisa tu trabajo</strong>: ¿Representa lo que quieres conseguir? ¿Se entiende bien? ¿Es visual y está organizado?</p>\n<p style=\"text-align: justify;\"><strong>3. Entrega tus actividades </strong></p>\n<p style=\"text-align: justify;\">Puedes hacerlo en mano si has preferido trabajar con cartulina o en Teams si has desarrollado las actividades de forma digital.</p>\n<p style=\"text-align: justify;\"><strong></strong><br /></p>\n<p style=\"text-align: justify;\"><strong>Para cerrar, reflexiona un momento:</strong><br />¿Ha cambiado algo en lo que pensabas sobre ti después de hacer esta actividad?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778007366439-clkc9utp0</odePageId>
+      <odeBlockId>block-1778008302212-fzfncg293</odeBlockId>
+      <blockName>Algunos ejemplos de Vision Board</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778007366439-clkc9utp0</odePageId>
+          <odeBlockId>block-1778008302212-fzfncg293</odeBlockId>
+          <odeIdeviceId>idevice-1778008302203-xrdoyiju1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778008302203-xrdoyiju1" title="" href="{{context_path}}/content/resources/OIP_1.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP_1.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778008302203-xrdoyiju1" title="" href="{{context_path}}/content/resources/OIP_2.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP_2.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778008302203-xrdoyiju1" title="" href="{{context_path}}/content/resources/OIP_3.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP_3.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1778008302203-xrdoyiju1" title="" href="{{context_path}}/content/resources/OIP_4.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP_4.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1778008302203-xrdoyiju1" title="" href="{{context_path}}/content/resources/OIP_5.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP_5.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1778008302203-xrdoyiju1" title="" href="{{context_path}}/content/resources/Collage-de-fotos-para-mood-boards-Vision-board-Aesthetic-Beige-1140x912.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Collage-de-fotos-para-mood-boards-Vision-board-Aesthetic-Beige-1140x912.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008302203-xrdoyiju1","img_1":{"img":"{{context_path}}/content/resources/OIP_1.webp","thumbnail":"{{context_path}}/content/resources/OIP_1.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/OIP_2.webp","thumbnail":"{{context_path}}/content/resources/OIP_2.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/OIP_3.webp","thumbnail":"{{context_path}}/content/resources/OIP_3.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/OIP_4.webp","thumbnail":"{{context_path}}/content/resources/OIP_4.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/OIP_5.webp","thumbnail":"{{context_path}}/content/resources/OIP_5.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/Collage-de-fotos-para-mood-boards-Vision-board-Aesthetic-Beige-1140x912.png","thumbnail":"{{context_path}}/content/resources/Collage-de-fotos-para-mood-boards-Vision-board-Aesthetic-Beige-1140x912.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008504253-rw7ml1930</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 3: VIDEO EXPLICATIVO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: VIDEO EXPLICATIVO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3: VIDEO EXPLICATIVO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008504253-rw7ml1930</odePageId>
+      <odeBlockId>block-1778008567646-i5lqqynpj</odeBlockId>
+      <blockName>Paso a paso de tu video</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008504253-rw7ml1930</odePageId>
+          <odeBlockId>block-1778008567646-i5lqqynpj</odeBlockId>
+          <odeIdeviceId>idevice-1778008567642-kall5df62</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vas a grabar un vídeo corto en el que expliques tu Vision Board. Este vídeo te ayudará a expresar tus ideas y a contar cómo eres y qué quieres conseguir.</p>
+<p>En el vídeo debes explicar:</p>
+<ul>
+<li>Qué has incluido en tu Vision Board</li>
+<li>Qué te gusta y en qué eres bueno/a</li>
+<li>Qué metas te has propuesto<br /></li>
+</ul>
+<p><strong>¿Cómo hacerlo?</strong></p>
+<ul>
+<li>Habla claro y despacio</li>
+<li>Intenta mirar a la cámara</li>
+<li>Usa tu Vision Board como apoyo para explicar</li>
+<li>Puedes hacer un pequeño guion antes de grabar</li>
+<li>Practica una vez antes de grabar</li>
+<li>Duración aproximada: 1-2 minutos</li>
+</ul>
+<p><strong>Antes de entregar</strong></p>
+<p>Revisa tu vídeo: ¿Se entiende lo que dices? ¿Se escucha bien? ¿Explicas tus ideas de forma clara?<br /></p>
+<p><strong>Entrega</strong></p>
+<p>Sube tu vídeo a Teams en el apartado Videos Vision Board.</p>
+<p><strong>Para terminar, piensa:</strong><br />¿Te ha resultado fácil explicar tu Vision Board? ¿Qué has aprendido sobre ti?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008567642-kall5df62","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vas a grabar un vídeo corto en el que expliques tu Vision Board. Este vídeo te ayudará a expresar tus ideas y a contar cómo eres y qué quieres conseguir.</p>\n<p>En el vídeo debes explicar:</p>\n<ul>\n<li>Qué has incluido en tu Vision Board</li>\n<li>Qué te gusta y en qué eres bueno/a</li>\n<li>Qué metas te has propuesto<br /></li>\n</ul>\n<p><strong>¿Cómo hacerlo?</strong></p>\n<ul>\n<li>Habla claro y despacio</li>\n<li>Intenta mirar a la cámara</li>\n<li>Usa tu Vision Board como apoyo para explicar</li>\n<li>Puedes hacer un pequeño guion antes de grabar</li>\n<li>Practica una vez antes de grabar</li>\n<li>Duración aproximada: 1-2 minutos</li>\n</ul>\n<p><strong>Antes de entregar</strong></p>\n<p>Revisa tu vídeo: ¿Se entiende lo que dices? ¿Se escucha bien? ¿Explicas tus ideas de forma clara?<br /></p>\n<p><strong>Entrega</strong></p>\n<p>Sube tu vídeo a Teams en el apartado Videos Vision Board.</p>\n<p><strong>Para terminar, piensa:</strong><br />¿Te ha resultado fácil explicar tu Vision Board? ¿Qué has aprendido sobre ti?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008839014-n5zc7y0q6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008839014-n5zc7y0q6</odePageId>
+      <odeBlockId>block-1778008980670-jrvv5kk6l</odeBlockId>
+      <blockName>Rúbrica de autoevaluación</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008839014-n5zc7y0q6</odePageId>
+          <odeBlockId>block-1778008980670-jrvv5kk6l</odeBlockId>
+          <odeIdeviceId>idevice-1778008980663-97vzajjdh</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Antes de terminar, vas a utilizar una rúbrica de autoevaluación.</p>
+<p>Una rúbrica es una tabla que te ayuda a valorar tu propio trabajo. Te servirá para pensar cómo lo has hecho, qué has hecho bien y qué puedes mejorar.</p>
+<p>Solo tienes que leer cada apartado y marcar la opción que mejor refleje tu trabajo, siendo sincero/a contigo mismo/a.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778008980663-97vzajjdh%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22He%20pensado%20sobre%20lo%20que%20me%20gusta%20y%20se%20me%20da%20bien%22%2C%22Mi%20infograf%EDa%20est%E1%20clara%20y%20ordenada%22%2C%22He%20explicado%20bien%20mi%20trabajo%20en%20el%20v%EDdeo%22%2C%22He%20trabajado%20con%20esfuerzo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Lo%20he%20hecho%20muy%20bien%20y%20he%20pensado%20mucho%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20bastante%20bien%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Lo%20he%20hecho%20con%20ayuda%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Me%20ha%20costado%20mucho%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Representa%20muy%20bien%20mis%20metas%20y%20es%20creativo%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Representa%20bien%20mis%20metas%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Representa%20algunas%20ideas%282.3%29%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20se%20entiende%20bien%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Se%20entiende%20muy%20bien%20y%20lo%20explico%20con%20seguridad%283.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Se%20entiende%20bien%283.2%29%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Se%20entiende%20un%20poco%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20se%20entiende%20bien%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Me%20he%20esforzado%20mucho%20en%20todo%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Me%20he%20esforzado%20bastante%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22A%20veces%20me%20esfuerzo%284.3%29%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Poco%20esfuerzo%284.4%29%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22He%20pensado%20sobre%20lo%20que%20me%20gusta%20y%20se%20me%20da%20bien%22%2C%22Mi%20infograf%EDa%20est%E1%20clara%20y%20ordenada%22%2C%22He%20explicado%20bien%20mi%20trabajo%20en%20el%20v%EDdeo%22%2C%22He%20trabajado%20con%20esfuerzo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Lo%20he%20hecho%20muy%20bien%20y%20he%20pensado%20mucho%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Lo%20he%20hecho%20bastante%20bien%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Lo%20he%20hecho%20con%20ayuda%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Me%20ha%20costado%20mucho%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Representa%20muy%20bien%20mis%20metas%20y%20es%20creativo%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Representa%20bien%20mis%20metas%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Representa%20algunas%20ideas%282.3%29%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20se%20entiende%20bien%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Se%20entiende%20muy%20bien%20y%20lo%20explico%20con%20seguridad%283.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Se%20entiende%20bien%283.2%29%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Se%20entiende%20un%20poco%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20se%20entiende%20bien%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Me%20he%20esforzado%20mucho%20en%20todo%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Me%20he%20esforzado%20bastante%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22A%20veces%20me%20esfuerzo%284.3%29%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Poco%20esfuerzo%284.4%29%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EAntes%20de%20terminar%2C%20vas%20a%20utilizar%20una%20r%FAbrica%20de%20autoevaluaci%F3n.%3C/p%3E%5Cn%3Cp%3EUna%20r%FAbrica%20es%20una%20tabla%20que%20te%20ayuda%20a%20valorar%20tu%20propio%20trabajo.%20Te%20servir%E1%20para%20pensar%20c%F3mo%20lo%20has%20hecho%2C%20qu%E9%20has%20hecho%20bien%20y%20qu%E9%20puedes%20mejorar.%3C/p%3E%5Cn%3Cp%3ESolo%20tienes%20que%20leer%20cada%20apartado%20y%20marcar%20la%20opci%F3n%20que%20mejor%20refleje%20tu%20trabajo%2C%20siendo%20sincero/a%20contigo%20mismo/a.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EAntes%20de%20terminar%2C%20vas%20a%20utilizar%20una%20r%FAbrica%20de%20autoevaluaci%F3n.%3C/p%3E%0A%3Cp%3EUna%20r%FAbrica%20es%20una%20tabla%20que%20te%20ayuda%20a%20valorar%20tu%20propio%20trabajo.%20Te%20servir%E1%20para%20pensar%20c%F3mo%20lo%20has%20hecho%2C%20qu%E9%20has%20hecho%20bien%20y%20qu%E9%20puedes%20mejorar.%3C/p%3E%0A%3Cp%3ESolo%20tienes%20que%20leer%20cada%20apartado%20y%20marcar%20la%20opci%F3n%20que%20mejor%20refleje%20tu%20trabajo%2C%20siendo%20sincero/a%20contigo%20mismo/a.%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778008930387-e6gx5wpq7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778008930387-e6gx5wpq7</odePageId>
+      <odeBlockId>block-1778009607671-6nyvzzmcn</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778008930387-e6gx5wpq7</odePageId>
+          <odeBlockId>block-1778009607671-6nyvzzmcn</odeBlockId>
+          <odeIdeviceId>idevice-1778009607667-hsxx001io</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">VisualizARTE</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje para el alumnado</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Verónica Hevia Roces</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.&nbsp;</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/blobid0.png" alt="" width="1276" height="386"></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
